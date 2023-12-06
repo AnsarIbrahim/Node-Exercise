@@ -1,0 +1,15 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "This is a Call-back => like Call-back Hell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^8.1.2"
+  }
+}
